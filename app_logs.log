@@ -1,0 +1,281 @@
+2024-12-14 10:11:27,507 - main - ERROR - Failed to load model: No module named 'xgboost'
+Traceback (most recent call last):
+  File "C:\Users\keerthi.narumanchi\Downloads\MLOps\MLOps\car_data_mlops\main.py", line 33, in <module>
+    model_pipeline = joblib.load('xgboost_model_pipeline.pkl')
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\pickle.py", line 1256, in load
+    dispatch[key[0]](self)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\pickle.py", line 1581, in load_stack_global
+    self.append(self.find_class(module, name))
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\pickle.py", line 1622, in find_class
+    __import__(module, level=0)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'xgboost'
+2024-12-14 10:20:52,382 - main - ERROR - Failed to load model: No module named 'xgboost'
+Traceback (most recent call last):
+  File "C:\Users\keerthi.narumanchi\Downloads\MLOps\MLOps\car_data_mlops\main.py", line 33, in <module>
+    model_pipeline = joblib.load('xgboost_model_pipeline.pkl')
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\pickle.py", line 1256, in load
+    dispatch[key[0]](self)
+    ~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\pickle.py", line 1581, in load_stack_global
+    self.append(self.find_class(module, name))
+                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\keerthi.narumanchi\AppData\Local\Programs\Python\Python313\Lib\pickle.py", line 1622, in find_class
+    __import__(module, level=0)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'xgboost'
+2024-12-14 10:25:56,621 - main - INFO - Model loaded successfully!
+2024-12-14 10:30:22,021 - main - DEBUG - Raw input data: {'Mileage': 15000.0, 'EngineV': 2.0, 'Year': 2019, 'Brand': 'Toyota', 'Body': 'Sedan', 'Engine_Type': 'Petrol', 'Registration': 'Yes', 'Model': 'Camry'}
+2024-12-14 10:30:22,051 - main - DEBUG - Input DataFrame:
+   Mileage  EngineV  Year   Brand   Body Engine Type Registration  Model
+0  15000.0      2.0  2019  Toyota  Sedan      Petrol          Yes  Camry
+2024-12-14 10:30:22,065 - main - DEBUG - Preprocessed input:
+<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 6 stored elements and shape (1, 251)>
+  Coords	Values
+  (0, 0)	160.34206524535915
+  (0, 1)	-0.37138906921361914
+  (0, 2)	2.18822480491899
+  (0, 8)	1.0
+  (0, 19)	1.0
+  (0, 94)	1.0
+2024-12-14 10:30:22,067 - main - DEBUG - Preprocessed dense input:
+[[160.34206525  -0.37138907   2.1882248    0.           0.
+    0.           0.           0.           1.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           1.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           1.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.           0.           0.           0.           0.
+    0.        ]]
+2024-12-14 10:30:22,073 - main - INFO - Prediction: 30185.423828125
+2024-12-14 10:34:52,951 - main - INFO - Model loaded successfully!
+2024-12-14 10:35:24,457 - main - INFO - Model loaded successfully!
+2024-12-14 10:38:02,337 - main - DEBUG - Raw input data: {'Mileage': 5000.0, 'EngineV': 1.8, 'Year': 2018, 'Brand': 'Toyota', 'Body': 'Sedan', 'Engine_Type': 'Petrol', 'Registration': 'Yes', 'Model': 'Corolla'}
+2024-12-14 10:38:02,360 - main - DEBUG - Input DataFrame:
+   Mileage  EngineV  Year   Brand   Body Engine Type Registration    Model
+0   5000.0      1.8  2018  Toyota  Sedan      Petrol          Yes  Corolla
+2024-12-14 10:38:02,377 - main - DEBUG - Preprocessed input:
+<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 6 stored elements and shape (1, 251)>
+  Coords	Values
+  (0, 0)	52.21345710407285
+  (0, 1)	-0.6840775777081074
+  (0, 2)	2.017493923868001
+  (0, 8)	1.0
+  (0, 19)	1.0
+  (0, 102)	1.0
+2024-12-14 10:38:02,379 - main - DEBUG - Preprocessed dense input:
+[[52.2134571  -0.68407758  2.01749392  0.          0.          0.
+   0.          0.          1.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          1.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   1.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.        ]]
+2024-12-14 10:38:02,393 - main - INFO - Prediction: 27737.419921875
+2024-12-14 10:39:41,228 - main - DEBUG - Raw input data: {'Mileage': 277.0, 'EngineV': 2.0, 'Year': 1991, 'Brand': 'BMW', 'Body': 'Sedan', 'Engine_Type': 'Petrol', 'Registration': 'Yes', 'Model': '320'}
+2024-12-14 10:39:41,240 - main - DEBUG - Input DataFrame:
+   Mileage  EngineV  Year Brand   Body Engine Type Registration Model
+0    277.0      2.0  1991   BMW  Sedan      Petrol          Yes   320
+2024-12-14 10:39:41,246 - main - DEBUG - Preprocessed input:
+<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 6 stored elements and shape (1, 251)>
+  Coords	Values
+  (0, 0)	1.1443154789433219
+  (0, 1)	-0.37138906921361914
+  (0, 2)	-2.592239864508687
+  (0, 4)	1.0
+  (0, 19)	1.0
+  (0, 36)	1.0
+2024-12-14 10:39:41,248 - main - DEBUG - Preprocessed dense input:
+[[ 1.14431548 -0.37138907 -2.59223986  0.          1.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          1.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   1.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.        ]]
+2024-12-14 10:39:41,251 - main - INFO - Prediction: 17166.666015625
+2024-12-14 10:47:46,488 - main - INFO - Model loaded successfully!
+2024-12-14 10:49:11,008 - main - DEBUG - Raw input data: {'Mileage': 277.0, 'EngineV': 2.0, 'Year': 1991, 'Brand': 'BMW', 'Body': 'Sedan', 'Engine_Type': 'Petrol', 'Registration': 'Yes', 'Model': '320'}
+2024-12-14 10:49:11,017 - main - DEBUG - Input DataFrame:
+   Mileage  EngineV  Year Brand   Body Engine Type Registration Model
+0    277.0      2.0  1991   BMW  Sedan      Petrol          Yes   320
+2024-12-14 10:49:11,021 - main - DEBUG - Preprocessed input:
+<Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 6 stored elements and shape (1, 241)>
+  Coords	Values
+  (0, 0)	1.1322020405562843
+  (0, 1)	-0.3830006238812518
+  (0, 2)	-2.6178530494079415
+  (0, 4)	1.0
+  (0, 19)	1.0
+  (0, 35)	1.0
+2024-12-14 10:49:11,022 - main - DEBUG - Preprocessed dense input:
+[[ 1.13220204 -0.38300062 -2.61785305  0.          1.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          1.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          1.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.          0.          0.          0.          0.          0.
+   0.        ]]
+2024-12-14 10:49:11,027 - main - INFO - Prediction: 2796.93
+2024-12-14 11:32:54,436 - main - INFO - Model loaded successfully!
