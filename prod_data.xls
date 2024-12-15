@@ -1,0 +1,713 @@
+Brand,Price,Body,Mileage,EngineV,Engine Type,Registration,Year,Model
+Volkswagen,4100.0,van,345,1.9,Diesel,no,2002,Sharan
+Volkswagen,9200.0,van,268,2.5,Diesel,yes,2003,T4 (Transporter)
+Volkswagen,30000.0,sedan,67,2.0,Diesel,yes,2013,Passat B7
+Audi,2550.0,sedan,370,2.5,Diesel,no,1998,A6
+Volkswagen,7300.0,hatch,117,1.4,Petrol,yes,2007,Polo
+Audi,19999.0,vagon,160,2.0,Petrol,yes,2010,A4 Allroad
+Mercedes-Benz,6500.0,other,315,2.0,Petrol,yes,1996,E-Class
+Audi,14900.0,sedan,203,2.8,Petrol,yes,2008,A6
+Volkswagen,12114.35,sedan,0,1.6,Petrol,yes,2016,Polo
+Renault,8900.0,van,150,2.0,Diesel,yes,2009,Trafic
+Renault,6800.0,sedan,87,1.4,Petrol,yes,2013,Symbol
+Audi,4000.0,vagon,300,2.5,Diesel,no,2001,A6
+Mercedes-Benz,11499.0,other,157,2.2,Diesel,yes,2012,Vito
+Volkswagen,17800.0,sedan,180,3.0,Diesel,yes,2007,Touareg
+Volkswagen,8500.0,hatch,141,2.0,Petrol,yes,2000,Beetle
+Mercedes-Benz,15300.0,other,234,2.2,Diesel,yes,2008,Sprinter 315
+Renault,9500.0,van,189,2.0,Diesel,yes,2010,Trafic
+Volkswagen,12900.0,sedan,136,1.6,Diesel,yes,2010,Passat B6
+Toyota,10600.0,sedan,204,1.8,Other,yes,2008,Avensis
+Mercedes-Benz,38200.0,sedan,39,1.6,Petrol,yes,2015,C-Class
+Mercedes-Benz,16500.0,other,260,2.2,Diesel,yes,2011,Sprinter 319
+Renault,8750.0,vagon,46,1.6,Petrol,yes,2012,Logan
+Mitsubishi,8600.0,sedan,145,2.0,Petrol,yes,2009,Lancer X
+BMW,34500.0,other,160,3.0,Diesel,yes,2011,X5
+Renault,4999.0,vagon,252,1.5,Diesel,yes,2007,Kangoo
+Renault,11403.99,sedan,0,1.2,Petrol,yes,2016,Logan
+BMW,8900.0,sedan,250,2.5,Diesel,yes,2001,525
+BMW,37200.0,other,115,3.0,Diesel,yes,2011,X5
+Volkswagen,9599.0,sedan,140,1.8,Petrol,yes,2008,Passat B6
+Mercedes-Benz,11500.0,sedan,180,3.2,Gas,yes,2004,E-Class
+Mitsubishi,7650.0,sedan,133,1.5,Gas,yes,2008,Lancer
+Volkswagen,6400.0,van,181,2.0,Diesel,yes,2008,Caddy
+Volkswagen,9800.0,van,86,1.2,Petrol,yes,2013,Caddy
+Mercedes-Benz,18000.0,sedan,99,1.8,Petrol,yes,2008,C-Class
+Mercedes-Benz,4500.0,sedan,240,3.2,Other,no,2005,C-Class
+Renault,7300.0,vagon,162,1.5,Diesel,yes,2006,Megane
+BMW,6300.0,sedan,270,3.5,Petrol,yes,1998,735
+Mercedes-Benz,14900.0,other,195,3.2,Gas,yes,1999,CLK 320
+Mercedes-Benz,12000.0,other,218,2.2,Diesel,yes,2007,Vito
+Audi,6700.0,sedan,340,2.6,Gas,yes,1997,A6
+Mercedes-Benz,7700.0,sedan,230,2.0,Petrol,yes,2001,C-Class
+Mercedes-Benz,11500.0,van,381,2.2,Diesel,yes,2006,Vito
+Volkswagen,9800.0,van,160,1.9,Diesel,yes,2009,Caddy
+Renault,7300.0,van,186,1.5,Diesel,yes,2010,Kangoo
+BMW,2899.0,sedan,260,2.0,Diesel,no,2000,320
+Mercedes-Benz,11500.0,sedan,145,3.2,Diesel,yes,2007,E-Class
+Toyota,9700.0,sedan,130,2.2,Petrol,yes,2008,Corolla
+Toyota,10700.0,sedan,109,1.8,Petrol,yes,2007,Avensis
+Volkswagen,14900.0,vagon,170,1.6,Diesel,yes,2011,Passat B7
+Mercedes-Benz,12500.0,van,167,2.2,Diesel,yes,2013,Vito
+Mitsubishi,1389.0,hatch,245,1.3,Petrol,no,1996,Colt
+Mercedes-Benz,8600.0,sedan,240,3.2,Diesel,yes,2001,E-Class
+Toyota,24171.42,sedan,1,2.5,Petrol,yes,2016,Camry
+Mercedes-Benz,6200.0,sedan,221,1.8,Gas,yes,2004,E-Class
+Mercedes-Benz,13700.0,van,198,3.2,Gas,yes,2006,Viano
+BMW,36900.0,sedan,17,2.0,Petrol,yes,2013,520
+Mercedes-Benz,4600.0,van,200,2.2,Diesel,yes,2000,Vito
+Volkswagen,7700.0,van,177,1.9,Diesel,yes,2008,T5 (Transporter) 
+Volkswagen,8500.0,vagon,200,1.9,Diesel,yes,2003,Passat B5
+Renault,6700.0,van,216,1.5,Diesel,yes,2010,Kangoo
+Volkswagen,12500.0,vagon,195,1.6,Diesel,yes,2013,Golf VI
+BMW,15500.0,sedan,216,2.0,Diesel,yes,2008,320
+Renault,6800.0,sedan,152,1.6,Petrol,yes,2007,Megane
+Volkswagen,10000.0,van,71,1.2,Petrol,yes,2013,Caddy
+Mitsubishi,3200.0,sedan,106,2.0,Gas,yes,1997,Galant
+BMW,29999.0,other,73,2.0,Petrol,yes,2012,320
+Renault,13200.0,van,230,2.0,Diesel,yes,2009,Trafic
+Renault,7450.0,other,190,2.2,Diesel,yes,2004,Grand Scenic
+Volkswagen,15850.0,crossover,98,2.0,Diesel,yes,2008,Tiguan
+Mitsubishi,8000.0,sedan,67,1.5,Petrol,yes,2009,Lancer X
+Mitsubishi,20500.0,crossover,109,3.2,Diesel,yes,2009,Pajero Wagon
+Volkswagen,11500.0,sedan,119,2.0,Diesel,yes,2007,Passat B6
+Mitsubishi,7500.0,sedan,94,1.6,Petrol,yes,2007,Lancer
+Audi,6557.85,sedan,327,4.2,Gas,yes,2000,A8
+Toyota,14700.0,sedan,131,3.5,Gas,yes,2007,Camry
+Renault,6200.0,sedan,246,1.4,Petrol,yes,2005,Megane
+Volkswagen,11500.0,other,142,2.5,Diesel,yes,2007,Multivan
+Mercedes-Benz,19600.0,van,127,1.8,Diesel,yes,2013,B 180
+Renault,6700.0,van,102,1.5,Diesel,yes,2012,Kangoo
+Renault,1550.0,vagon,235,2.0,Petrol,no,1998,Laguna
+Audi,4800.0,sedan,341,2.8,Petrol,yes,1992,100
+Renault,5400.0,sedan,96,1.4,Petrol,yes,2007,Symbol
+Renault,9400.0,van,270,2.0,Diesel,yes,2007,Trafic
+Renault,4200.0,sedan,180,1.4,Petrol,yes,2003,Symbol
+Renault,8700.0,van,183,1.9,Diesel,yes,2004,Trafic
+Audi,13333.0,other,178,2.0,Diesel,yes,2008,A6
+Volkswagen,13000.0,sedan,140,2.0,Petrol,yes,2006,Jetta
+Volkswagen,18999.0,sedan,122,1.8,Petrol,yes,2012,Passat CC
+Mercedes-Benz,15000.0,other,115,2.2,Diesel,yes,2011,Vito
+Mercedes-Benz,13000.0,other,247,2.2,Diesel,yes,2012,Sprinter 313
+Toyota,11200.0,sedan,179,2.4,Petrol,yes,2006,Camry
+BMW,21700.0,crossover,101,2.5,Gas,yes,2007,X3
+Renault,15820.35,sedan,0,1.5,Diesel,yes,2016,Fluence
+Renault,8500.0,sedan,57,1.2,Gas,yes,2013,Logan
+Renault,6750.0,vagon,214,1.5,Diesel,yes,2004,Megane
+Volkswagen,14900.0,sedan,73,2.2,Petrol,yes,2012,Jetta
+Mitsubishi,2800.0,sedan,150,2.0,Gas,yes,1996,Galant
+Renault,11500.0,vagon,180,1.5,Diesel,yes,2011,Megane
+Toyota,20900.0,sedan,18,2.5,Other,yes,2013,Camry
+Mitsubishi,2199.0,hatch,400,1.8,Other,yes,1991,Galant
+Audi,10700.0,vagon,222,2.5,Diesel,yes,2005,A6
+Volkswagen,9900.0,other,178,2.5,Diesel,yes,2007,T5 (Transporter)
+Audi,6100.0,sedan,305,1.6,Other,yes,1996,A4
+Renault,7450.0,other,208,1.9,Other,yes,2004,Trafic
+Volkswagen,31310.0,van,0,2.0,Diesel,yes,2014,Touran
+Renault,9500.0,hatch,77,1.6,Petrol,yes,2011,Megane
+Toyota,32900.0,crossover,82,2.7,Petrol,yes,2013,Venza
+Toyota,15300.0,crossover,130,2.0,Petrol,yes,2008,Rav 4
+Volkswagen,7000.0,van,250,2.0,Diesel,yes,2004,Caddy
+Toyota,9800.0,sedan,178,1.8,Petrol,yes,2007,Avensis
+Mercedes-Benz,33500.0,van,0,2.2,Diesel,yes,2015,Sprinter 316
+Mitsubishi,2500.0,other,350,1.8,Petrol,yes,1990,Galant
+Toyota,15500.0,sedan,120,3.5,Petrol,yes,2008,Camry
+Renault,7400.0,van,181,2.0,Diesel,yes,2007,Trafic
+Toyota,10500.0,sedan,180,3.5,Petrol,yes,2007,Camry
+Volkswagen,34500.0,van,167,2.0,Diesel,yes,2013,Multivan
+BMW,35500.0,crossover,33,2.0,Diesel,yes,2014,X1
+Renault,11500.0,vagon,175,1.5,Diesel,yes,2011,Megane
+Mitsubishi,12300.0,other,175,2.5,Diesel,yes,2008,L 200
+Volkswagen,13000.0,van,178,2.5,Diesel,yes,2007,T6 (Transporter)
+Toyota,34000.0,crossover,44,3.5,Petrol,yes,2012,Highlander
+Audi,4150.0,sedan,220,2.5,Diesel,no,1999,A8
+Mercedes-Benz,4050.0,sedan,200,2.2,Diesel,yes,2001,S 320
+Volkswagen,7000.0,van,350,1.0,Other,yes,2004,T5 (Transporter) 
+Audi,13900.0,other,197,2.0,Diesel,yes,2006,A6
+Audi,5700.0,vagon,250,2.0,Diesel,no,2006,A4
+Volkswagen,38365.0,sedan,0,2.0,Diesel,yes,2016,Passat B8
+Toyota,16800.0,crossover,165,2.7,Petrol,yes,2005,Land Cruiser Prado
+Renault,6555.0,vagon,180,1.5,Diesel,yes,2005,Megane
+Volkswagen,41000.0,crossover,180,3.0,Diesel,yes,2013,Touareg
+Volkswagen,8800.0,van,93,1.6,Diesel,yes,2012,Caddy
+Mercedes-Benz,12800.0,van,193,2.2,Other,yes,2011,Vito
+Mercedes-Benz,22500.0,sedan,213,2.2,Diesel,yes,2012,E-Class
+Volkswagen,9750.0,van,1,1.9,Diesel,yes,2004,T5 (Transporter)
+BMW,3099.0,sedan,320,2.0,Diesel,no,2000,320
+Audi,10200.0,sedan,120,2.0,Petrol,yes,2006,A4
+Renault,8299.0,sedan,19,1.2,Petrol,yes,2013,Logan
+Volkswagen,27000.0,sedan,57,2.0,Diesel,yes,2013,Passat B7
+Mercedes-Benz,5400.0,other,300,3.2,Gas,yes,1997,E-Class
+Toyota,14900.0,other,175,3.5,Gas,yes,2008,Camry
+Volkswagen,7777.0,other,214,2.0,Other,yes,2007,Caddy
+Toyota,22900.0,sedan,60,2.5,Petrol,yes,2012,Camry
+Volkswagen,7600.0,hatch,127,1.4,Petrol,yes,2007,Polo
+Toyota,4350.0,sedan,35,2.2,Gas,yes,1999,Camry
+Renault,7700.0,vagon,200,1.5,Diesel,yes,2007,Megane
+BMW,9900.0,other,93,2.5,Petrol,yes,2003,Z4
+Volkswagen,7800.0,vagon,289,2.2,Diesel,yes,2003,Passat B5
+Volkswagen,4999.0,van,225,2.2,Other,no,2003,Caravelle
+Toyota,35999.0,crossover,102,4.0,Petrol,yes,2011,Land Cruiser Prado
+Mitsubishi,4800.0,sedan,247,2.0,Gas,yes,1998,Galant
+Mercedes-Benz,8700.0,other,260,2.2,Diesel,yes,2003,Sprinter 213
+Toyota,15500.0,crossover,120,2.0,Petrol,yes,2008,Rav 4
+Renault,7250.0,van,83,2.2,Other,yes,2013,Kangoo
+Mercedes-Benz,3150.0,vagon,220,1.7,Other,no,2001,A 170
+Renault,6200.0,van,228,2.5,Diesel,yes,2005,Trafic
+Mercedes-Benz,15300.0,other,120,2.6,Petrol,yes,2004,CLK 240
+Volkswagen,2500.0,hatch,111,1.6,Gas,yes,1999,Golf IV
+Volkswagen,4850.0,vagon,300,1.9,Diesel,yes,1998,Golf III
+Toyota,14200.0,sedan,31,2.2,Petrol,yes,2014,Corolla
+Audi,29602.95,sedan,1,1.4,Petrol,yes,2016,A4
+Volkswagen,9000.0,sedan,59,2.0,Petrol,no,2010,Passat B6
+Renault,7300.0,van,154,1.5,Diesel,yes,2012,Kangoo
+Volkswagen,1499.0,sedan,220,2.0,Gas,no,1995,Passat B4
+Renault,11300.0,van,183,2.0,Diesel,yes,2011,Trafic
+Renault,7500.0,van,128,1.5,Diesel,yes,2009,Kangoo
+Volkswagen,17777.0,van,250,2.0,Diesel,yes,2010,T6 (Transporter)
+BMW,39999.0,sedan,45,3.0,Petrol,yes,2011,535
+Renault,11000.0,hatch,127,1.5,Diesel,yes,2012,Megane
+Volkswagen,9000.0,hatch,120,1.2,Diesel,yes,2012,Polo
+Volkswagen,7200.0,van,270,1.9,Diesel,yes,2008,T5 (Transporter) 
+Volkswagen,10250.0,sedan,144,2.0,Diesel,yes,2008,Passat B6
+BMW,3900.0,vagon,240,3.0,Diesel,no,2001,530
+BMW,12200.0,sedan,239,3.0,Diesel,yes,2001,730
+Mitsubishi,19400.0,crossover,78,2.2,Petrol,yes,2012,Outlander XL
+Renault,1550.0,other,245,2.0,Petrol,no,1998,Megane
+Volkswagen,3500.0,hatch,250,1.9,Diesel,no,2000,Beetle
+Audi,17500.0,vagon,144,2.0,Diesel,yes,2010,A4
+Toyota,7000.0,other,220,1.8,Petrol,yes,2001,Celica
+Volkswagen,3300.0,vagon,430,1.8,Petrol,yes,1991,Passat B3
+Toyota,12500.0,sedan,140,3.5,Gas,yes,2007,Camry
+Mitsubishi,11500.0,sedan,90,2.0,Petrol,yes,2007,Lancer Evolution
+Volkswagen,18500.0,sedan,217,3.0,Diesel,yes,2006,Phaeton
+Toyota,12300.0,sedan,157,2.4,Gas,yes,2007,Camry
+BMW,11900.0,sedan,1,2.8,Petrol,yes,2002,528
+Mitsubishi,11499.0,van,98,2.4,Petrol,yes,2008,Grandis
+Mercedes-Benz,2150.0,sedan,360,2.9,Diesel,no,1997,E-Class
+Renault,6900.0,sedan,68,1.5,Diesel,yes,2013,Logan
+Mercedes-Benz,7900.0,other,197,2.2,Diesel,yes,2003,Vito
+Toyota,13700.0,sedan,48,1.4,Diesel,yes,2013,Corolla
+Mercedes-Benz,14899.0,other,209,3.0,Diesel,yes,2006,E-Class
+Volkswagen,25500.0,other,52,2.0,Petrol,yes,2012,Scirocco
+Mercedes-Benz,18900.0,other,111,2.5,Petrol,yes,2009,C-Class
+Renault,13300.0,other,132,1.5,Diesel,yes,2012,Megane
+Audi,3050.0,vagon,250,2.5,Other,no,2001,A6
+Mercedes-Benz,2000.0,sedan,320,2.2,Diesel,no,1998,E-Class
+Mitsubishi,10600.0,crossover,85,2.2,Gas,yes,2006,Outlander
+Audi,9500.0,other,0,2.2,Other,yes,2003,A6
+Toyota,26900.0,crossover,115,4.0,Gas,yes,2008,Land Cruiser Prado
+Audi,13200.0,vagon,182,2.7,Gas,yes,2003,A6 Allroad
+BMW,7100.0,sedan,313,2.0,Gas,yes,1997,520
+Volkswagen,8900.0,hatch,90,1.9,Diesel,yes,2009,Golf V
+BMW,3800.0,sedan,250,3.0,Diesel,no,2002,330
+Volkswagen,11999.0,van,176,2.0,Diesel,yes,2011,T5 (Transporter) 
+Mitsubishi,5100.0,hatch,250,1.3,Gas,yes,2006,Colt
+Mercedes-Benz,16500.0,other,107,2.2,Diesel,yes,2010,Vito
+Audi,11500.0,sedan,2,3.0,Diesel,yes,2015,A8
+Volkswagen,11000.0,vagon,171,1.9,Diesel,yes,2009,Golf Variant
+Volkswagen,12650.0,hatch,11,1.0,Petrol,yes,2014,Up
+Audi,3800.0,vagon,190,2.5,Diesel,no,2002,A6
+Volkswagen,18000.0,vagon,18,1.6,Diesel,yes,2011,Passat B7
+Volkswagen,20900.0,sedan,122,2.0,Petrol,yes,2012,Passat B7
+Volkswagen,21500.0,sedan,1,1.4,Petrol,yes,2015,Jetta
+BMW,33500.0,sedan,65,2.0,Petrol,yes,2013,520
+Volkswagen,2900.0,sedan,2,1.8,Petrol,yes,1989,Passat B3
+Toyota,14500.0,sedan,147,2.4,Gas,yes,2006,Camry
+BMW,6500.0,sedan,1,3.0,Petrol,yes,1995,730
+Volkswagen,3650.0,sedan,300,1.8,Petrol,yes,1996,Vento
+Mitsubishi,6200.0,sedan,152,1.6,Petrol,yes,2006,Lancer
+Volkswagen,3000.0,van,318,1.9,Diesel,yes,1993,T4 (Transporter) 
+Toyota,21950.0,crossover,141,2.7,Gas,yes,2010,Venza
+Mercedes-Benz,11000.0,sedan,263,3.2,Diesel,yes,2001,E-Class
+Renault,10750.0,hatch,136,1.5,Diesel,yes,2011,Megane
+Volkswagen,7700.0,vagon,287,1.9,Diesel,yes,2002,Sharan
+Audi,30500.0,sedan,110,3.0,Petrol,yes,2011,A6
+Mercedes-Benz,22000.0,van,236,2.2,Diesel,yes,2012,Sprinter 313
+Volkswagen,2400.0,vagon,320,1.9,Diesel,no,2000,Passat B5
+Volkswagen,27200.0,crossover,1,2.0,Diesel,yes,2015,Tiguan
+BMW,2500.0,vagon,250,2.5,Diesel,no,2000,525
+Mitsubishi,8000.0,sedan,207,1.6,Gas,yes,2007,Lancer
+BMW,10999.0,sedan,225,3.0,Diesel,yes,2003,530
+Audi,30500.0,vagon,152,3.0,Diesel,yes,2012,A6
+Toyota,17950.0,sedan,87,2.4,Petrol,yes,2010,Camry
+BMW,4300.0,sedan,240,2.5,Diesel,no,2002,525
+Volkswagen,2600.0,sedan,280,2.5,Diesel,no,2000,Passat B5
+Audi,15900.0,hatch,160,1.4,Petrol,yes,2011,A3
+BMW,39900.0,sedan,5,2.0,Petrol,yes,2016,520
+Mercedes-Benz,9500.0,other,220,2.2,Diesel,yes,2005,Vito
+Toyota,23660.0,crossover,125,3.5,Gas,yes,2013,Highlander
+Mitsubishi,7000.0,sedan,180,1.6,Gas,yes,2004,Lancer
+Toyota,23000.0,other,211,4.0,Gas,yes,2007,Land Cruiser Prado
+Volkswagen,22000.0,hatch,40,1.4,Petrol,yes,2013,Golf VII
+Mercedes-Benz,11500.0,sedan,9,3.0,Diesel,yes,2014,S 350
+Volkswagen,35999.0,crossover,84,3.0,Diesel,yes,2011,Touareg
+Volkswagen,6200.0,van,340,1.8,Petrol,yes,1999,Sharan
+Renault,9500.0,sedan,88,1.6,Gas,yes,2012,Fluence
+Renault,7750.0,van,70,1.5,Diesel,yes,2014,Kangoo
+Volkswagen,13000.0,van,110,1.9,Diesel,yes,2009,T5 (Transporter)
+Mitsubishi,8260.0,sedan,65,1.5,Petrol,yes,2011,Lancer
+Audi,5200.0,sedan,250,1.8,Other,yes,1996,A4
+BMW,2600.0,sedan,270,2.0,Diesel,no,1998,320
+Audi,2700.0,sedan,234,2.5,Other,no,2000,A6
+Mitsubishi,6500.0,sedan,133,1.6,Petrol,yes,2007,Lancer
+Renault,10700.0,van,150,1.9,Diesel,yes,2006,Trafic
+Mercedes-Benz,2600.0,van,280,2.9,Diesel,no,1997,Sprinter 312
+Volkswagen,13900.0,vagon,123,1.4,Gas,yes,2013,Touran
+Volkswagen,29040.0,sedan,0,1.4,Petrol,yes,2015,Jetta
+Volkswagen,8700.0,other,357,2.5,Diesel,yes,2003,T4 (Transporter) 
+Renault,12000.0,sedan,81,2.0,Petrol,yes,2012,Fluence
+Volkswagen,1400.0,other,212,1.8,Gas,no,1999,Golf IV
+BMW,32000.0,crossover,108,3.0,Petrol,yes,2008,X6
+Toyota,12900.0,sedan,137,2.4,Petrol,yes,2008,Camry
+Toyota,11750.0,sedan,93,1.6,Petrol,yes,2013,Corolla
+Mitsubishi,11999.0,crossover,235,3.0,Gas,yes,2007,Pajero Wagon
+Volkswagen,6500.0,vagon,101,2.0,Diesel,yes,2011,Passat B6
+Renault,5900.0,hatch,171,1.5,Other,yes,2005,Megane
+Volkswagen,9500.0,van,212,1.9,Diesel,yes,2006,T5 (Transporter)
+Renault,8600.0,van,100,1.5,Diesel,yes,2012,Kangoo
+Toyota,20800.0,crossover,70,2.7,Petrol,yes,2008,Land Cruiser Prado
+Volkswagen,25900.0,hatch,35,2.0,Diesel,yes,2015,Golf VII
+Renault,11700.0,crossover,90,1.5,Diesel,yes,2011,Duster
+BMW,4500.0,sedan,307,2.5,Petrol,yes,1994,525
+Volkswagen,24300.0,sedan,1,1.6,Diesel,yes,2016,Jetta
+Volkswagen,12350.0,van,167,1.4,Petrol,yes,2011,Touran
+Mitsubishi,20800.0,crossover,31,2.4,Petrol,yes,2011,Outlander XL
+Toyota,12800.0,sedan,203,2.2,Petrol,yes,2005,Camry
+Volkswagen,35000.0,crossover,20,2.0,Diesel,yes,2014,Tiguan
+BMW,17700.0,sedan,98,2.0,Petrol,yes,2011,320
+BMW,10999.0,other,162,2.2,Petrol,yes,2002,320
+Toyota,8420.0,other,150,2.7,Gas,yes,2005,Tacoma
+Toyota,20900.0,crossover,69,2.7,Petrol,yes,2008,Land Cruiser Prado
+Toyota,20500.0,sedan,105,2.5,Petrol,yes,2013,Camry
+Renault,10499.0,vagon,121,1.5,Diesel,yes,2013,Megane
+BMW,8850.0,vagon,280,2.5,Diesel,yes,2000,525
+Volkswagen,15200.0,van,132,2.5,Diesel,yes,2009,T5 (Transporter)
+Volkswagen,9800.0,van,130,1.6,Diesel,yes,2012,Caddy
+Mitsubishi,1850.0,sedan,145,1.6,Petrol,no,1997,Carisma
+Toyota,7899.0,sedan,165,1.8,Gas,yes,2006,Avensis
+Mercedes-Benz,14200.0,van,180,2.2,Diesel,yes,2007,Vito
+Volkswagen,18900.0,other,45,2.0,Diesel,yes,2013,Passat B7
+Audi,2400.0,sedan,305,2.3,Gas,yes,1989,100
+Renault,5800.0,vagon,200,1.46,Diesel,yes,2008,Grand Scenic
+BMW,6500.0,sedan,300,2.8,Gas,yes,1997,528
+Audi,18700.0,sedan,136,2.0,Diesel,yes,2009,A6
+Volkswagen,14499.0,van,164,2.0,Diesel,yes,2013,T5 (Transporter) 
+Mitsubishi,15000.0,crossover,295,2.8,Diesel,yes,2004,Pajero Wagon
+Mercedes-Benz,15300.0,other,168,3.2,Petrol,yes,2003,CLK 320
+Audi,20900.0,crossover,185,4.2,Petrol,yes,2006,Q7
+Renault,7500.0,sedan,131,1.6,Petrol,yes,2009,Megane
+Volkswagen,8700.0,vagon,250,1.9,Diesel,yes,2002,Passat B5
+Mitsubishi,6700.0,sedan,161,1.6,Gas,yes,2006,Lancer
+Volkswagen,9500.0,van,205,2.0,Petrol,yes,2006,Passat B6
+Renault,6700.0,van,118,1.5,Diesel,yes,2012,Kangoo
+Volkswagen,17300.0,crossover,148,3.0,Diesel,yes,2007,Touareg
+Toyota,15500.0,crossover,130,2.0,Petrol,yes,2008,Rav 4
+Volkswagen,5950.0,van,213,1.6,Gas,yes,2008,Caddy
+Mitsubishi,11500.0,crossover,120,2.0,Gas,yes,2008,Outlander
+Mercedes-Benz,21000.0,crossover,208,3.5,Petrol,yes,2007,ML 350
+BMW,8999.0,sedan,270,2.8,Petrol,yes,1998,528
+Mitsubishi,8700.0,sedan,150,2.4,Gas,yes,2007,Galant
+Mercedes-Benz,13600.0,van,172,2.2,Diesel,yes,2013,Vito
+Mitsubishi,2900.0,sedan,350,1.6,Petrol,yes,1994,Lancer
+BMW,36300.0,crossover,83,3.5,Petrol,yes,2010,X6
+Toyota,25500.0,other,103,3.5,Petrol,yes,2010,Venza
+Volkswagen,4000.0,hatch,266,1.9,Diesel,yes,1993,Golf III
+Renault,11999.0,vagon,188,1.5,Other,yes,2012,Megane
+Volkswagen,30900.0,sedan,30,2.0,Diesel,yes,2014,Passat B7
+Renault,13500.0,hatch,10,1.6,Petrol,yes,2014,Megane
+Mercedes-Benz,2499.0,hatch,201,1.7,Diesel,no,2001,A 170
+Toyota,12400.0,hatch,52,1.4,Other,yes,2012,Prius
+Toyota,16500.0,crossover,328,4.2,Diesel,yes,1993,Land Cruiser 80
+Volkswagen,1800.0,other,280,1.9,Diesel,no,1997,Passat B5
+BMW,5650.0,sedan,284,2.0,Petrol,yes,1998,520
+Mercedes-Benz,13995.0,van,126,2.2,Diesel,yes,2013,Vito
+Mitsubishi,8500.0,sedan,110,2.0,Petrol,yes,2008,Lancer X
+Volkswagen,12999.0,van,250,1.9,Diesel,yes,2009,T5 (Transporter)
+Renault,3300.0,van,250,1.5,Diesel,yes,2005,Kangoo
+Renault,5950.0,van,135,1.5,Diesel,yes,2012,Kangoo
+BMW,8900.0,other,253,1.8,Petrol,yes,1995,318
+Volkswagen,17900.0,van,188,2.5,Diesel,yes,2008,Multivan
+Renault,7200.0,van,1,1.5,Diesel,yes,2012,Kangoo
+BMW,14200.0,sedan,135,3.0,Gas,yes,2004,530
+Toyota,18800.0,vagon,89,1.8,Petrol,yes,2012,Avensis
+Toyota,23499.0,crossover,174,4.0,Gas,yes,2008,Land Cruiser Prado
+Toyota,22800.0,other,55,2.5,Petrol,yes,2013,Camry
+Renault,7200.0,van,146,1.5,Diesel,yes,2012,Kangoo
+Toyota,6900.0,hatch,109,1.3,Gas,yes,2007,Yaris
+Mercedes-Benz,11900.0,sedan,110,2.57,Petrol,yes,2004,C-Class
+Audi,15500.0,vagon,180,2.0,Diesel,yes,2007,A6
+Volkswagen,20477.54,van,1,1.6,Diesel,yes,2015,Caddy
+Volkswagen,4400.0,sedan,290,1.8,Gas,yes,1997,Vento
+Renault,6600.0,van,134,1.5,Diesel,yes,2011,Kangoo
+BMW,18400.0,crossover,256,3.0,Diesel,yes,2006,X5
+Volkswagen,21500.0,sedan,2,1.6,Diesel,yes,2016,Jetta
+Volkswagen,34500.0,crossover,108,3.0,Diesel,yes,2012,Touareg
+Renault,24193.65,van,1,1.6,Diesel,yes,2015,Trafic
+Audi,20500.0,sedan,155,3.0,Petrol,yes,2010,A6
+Volkswagen,11500.0,sedan,381,2.5,Diesel,yes,2000,T4 (Transporter) 
+Mercedes-Benz,29500.0,crossover,180,3.2,Diesel,yes,2008,GL 320
+Mitsubishi,36000.0,crossover,0,2.4,Petrol,yes,2016,Outlander
+BMW,30500.0,sedan,73,2.0,Petrol,yes,2013,520
+Renault,9200.0,hatch,12,1.2,Petrol,yes,2013,Sandero
+Renault,7600.0,other,125,1.5,Diesel,yes,2013,Kangoo
+Volkswagen,22500.0,van,62,2.0,Diesel,yes,2011,Caravelle
+Audi,4999.0,sedan,231,1.9,Diesel,no,2002,A6
+BMW,11500.0,crossover,8,2.0,Diesel,yes,2016,X5
+BMW,29900.0,crossover,182,3.0,Petrol,yes,2008,X6
+Audi,35900.0,sedan,105,2.0,Diesel,yes,2014,A6
+Mitsubishi,4999.0,sedan,60,1.6,Petrol,yes,2007,Lancer
+Toyota,33715.5,crossover,1,2.7,Petrol,yes,2015,Land Cruiser Prado
+Renault,7500.0,vagon,98,1.4,Petrol,yes,2007,Kangoo
+Toyota,8500.0,hatch,93,1.6,Petrol,yes,2007,Auris
+BMW,3500.0,sedan,300,3.0,Diesel,no,1999,530
+Volkswagen,1850.0,other,200,1.6,Petrol,no,1999,Golf IV
+Toyota,9950.0,sedan,106,1.6,Gas,yes,2008,Corolla
+Audi,3000.0,sedan,267,2.5,Diesel,no,1999,A6
+Toyota,18100.0,hatch,30,1.6,Petrol,yes,2013,Auris
+Volkswagen,10500.0,van,130,1.9,Diesel,yes,2010,Caddy
+Mercedes-Benz,13400.0,sedan,105,1.8,Petrol,yes,2006,E-Class
+BMW,11500.0,sedan,290,3.0,Diesel,yes,2001,730
+BMW,14600.0,sedan,116,2.5,Diesel,yes,2004,525
+Mercedes-Benz,8650.0,van,344,2.2,Diesel,yes,2006,Vito
+Renault,6500.0,van,127,1.5,Diesel,yes,2011,Kangoo
+Mitsubishi,15000.0,crossover,95,2.5,Diesel,yes,2008,Pajero Sport
+Renault,9700.0,van,245,2.0,Diesel,yes,2008,Trafic
+Toyota,18800.0,sedan,47,2.4,Petrol,yes,2009,Camry
+BMW,10800.0,other,191,2.2,Petrol,yes,2002,320
+Volkswagen,2350.0,sedan,300,1.9,Diesel,no,1998,Passat B5
+Mercedes-Benz,18000.0,van,147,2.2,Diesel,yes,2013,Vito
+Volkswagen,17000.0,van,157,2.0,Diesel,yes,2010,T5 (Transporter)
+BMW,15000.0,other,205,2.2,Petrol,yes,2004,530
+Toyota,19000.0,crossover,263,4.2,Diesel,yes,2001,Land Cruiser 100
+Renault,12399.0,van,177,2.0,Diesel,yes,2009,Trafic
+BMW,3500.0,hatch,1,2.0,Petrol,yes,2006,120
+BMW,4200.0,sedan,277,2.0,Petrol,yes,1991,320
+Volkswagen,10300.0,hatch,110,1.9,Diesel,yes,2008,Caddy
+Renault,11300.0,vagon,141,1.5,Diesel,yes,2013,Megane
+Audi,2850.0,vagon,280,2.5,Diesel,no,1999,A6
+Volkswagen,17650.0,sedan,110,1.8,Petrol,yes,2012,Passat B7
+BMW,10600.0,sedan,1,3.0,Diesel,yes,2000,530
+Audi,15000.0,sedan,168,2.2,Other,yes,2007,A6
+Mercedes-Benz,13200.0,other,196,2.2,Other,yes,2012,Sprinter 313
+Audi,19999.0,crossover,117,4.2,Petrol,yes,2007,Q7
+Mercedes-Benz,25500.0,crossover,77,3.5,Petrol,yes,2008,ML 350
+Mercedes-Benz,14800.0,crossover,242,2.7,Diesel,yes,2005,ML 270
+Renault,5700.0,van,180,1.5,Diesel,yes,2007,Kangoo
+Mercedes-Benz,5200.0,other,220,3.2,Petrol,no,2004,CLK 320
+Mitsubishi,9500.0,sedan,136,2.0,Petrol,yes,2008,Lancer X
+BMW,7400.0,sedan,279,3.5,Gas,yes,1998,735
+Toyota,11300.0,sedan,260,3.5,Gas,yes,2007,Camry
+Toyota,13500.0,sedan,158,2.4,Gas,yes,2008,Camry
+Mercedes-Benz,4900.0,sedan,282,3.2,Gas,yes,1993,E-Class
+Volkswagen,12700.0,van,213,2.0,Diesel,yes,2012,T5 (Transporter) 
+Audi,8150.0,sedan,162,2.0,Petrol,yes,2004,A4
+Mercedes-Benz,5300.0,van,244,2.2,Diesel,yes,2000,Vito
+Mercedes-Benz,19500.0,crossover,172,3.5,Other,yes,2008,ML 350
+Mercedes-Benz,9300.0,sedan,270,2.7,Diesel,yes,2001,E-Class
+Toyota,4500.0,hatch,207,1.3,Petrol,yes,1995,Corolla
+Renault,8700.0,hatch,100,1.5,Diesel,yes,2010,Megane
+Mercedes-Benz,16800.0,sedan,125,1.8,Petrol,yes,2008,C-Class
+Volkswagen,25999.0,sedan,60,1.8,Petrol,yes,2014,Passat B7
+Renault,11200.0,vagon,165,1.5,Diesel,yes,2012,Megane
+Volkswagen,15200.0,crossover,58,2.0,Petrol,yes,2008,Tiguan
+Renault,6000.0,van,162,1.4,Petrol,yes,2007,Kangoo
+Mercedes-Benz,1600.0,sedan,338,3.0,Diesel,no,1991,E-Class
+Renault,2650.0,vagon,1,1.0,Diesel,no,2006,Laguna
+Volkswagen,9600.0,van,255,1.9,Diesel,yes,2004,T5 (Transporter)
+Volkswagen,9500.0,hatch,62,1.2,Diesel,yes,2011,Polo
+Mercedes-Benz,6999.0,sedan,288,3.2,Gas,yes,2001,E-Class
+Volkswagen,9950.0,hatch,95,1.4,Petrol,yes,2010,Polo
+Volkswagen,40000.0,other,170,2.0,Diesel,yes,2011,Multivan
+Toyota,24000.0,sedan,60,2.5,Gas,yes,2014,Camry
+Mitsubishi,5850.0,hatch,130,1.3,Petrol,yes,2005,Colt
+Volkswagen,9750.0,van,253,1.9,Diesel,yes,2010,Caddy
+Volkswagen,39615.0,sedan,0,2.0,Diesel,yes,2016,Passat B8
+Mitsubishi,8100.0,sedan,113,2.0,Petrol,yes,2007,Lancer X
+Renault,13400.0,vagon,190,1.5,Diesel,yes,2013,Laguna
+Volkswagen,11000.0,vagon,127,1.6,Diesel,yes,2012,Golf VI
+Mercedes-Benz,16500.0,van,152,2.2,Diesel,yes,2012,Vito
+Mercedes-Benz,3900.0,sedan,385,1.8,Petrol,yes,1995,C-Class
+Mitsubishi,2020.0,other,90,2.2,Other,no,2008,L 200
+Toyota,8500.0,hatch,55,1.0,Petrol,yes,2011,Aygo
+Volkswagen,10000.0,sedan,98,1.6,Petrol,yes,2013,Polo
+Mercedes-Benz,15000.0,other,82,1.8,Petrol,yes,2004,SLK 200
+Renault,7600.0,sedan,97,1.6,Petrol,yes,2008,Megane
+Mercedes-Benz,9900.0,sedan,320,2.7,Diesel,yes,2001,E-Class
+Renault,8400.0,van,260,1.9,Diesel,yes,2005,Trafic
+Mitsubishi,6300.0,crossover,235,3.2,Diesel,no,2001,Pajero
+Audi,22999.0,crossover,125,4.2,Petrol,yes,2008,Q7
+Volkswagen,3600.0,sedan,330,2.8,Gas,yes,1994,Passat B4
+BMW,2900.0,vagon,236,2.0,Diesel,no,2001,320
+Mitsubishi,3500.0,sedan,300,2.0,Diesel,yes,1996,Galant
+Renault,8200.0,vagon,192,1.5,Diesel,yes,2010,Logan
+Volkswagen,18900.0,hatch,56,2.0,Petrol,yes,2012,Golf GTI
+Audi,3400.0,vagon,261,2.5,Diesel,no,2004,A6
+Mercedes-Benz,12900.0,hatch,150,2.0,Diesel,yes,2008,B 180
+Mitsubishi,7500.0,sedan,140,1.5,Petrol,yes,2007,Lancer X
+Renault,15000.0,sedan,21,1.5,Diesel,yes,2014,Fluence
+Renault,7000.0,vagon,231,1.6,Petrol,yes,2008,Scenic
+Volkswagen,9900.0,van,149,1.6,Diesel,yes,2013,Caddy
+Mercedes-Benz,5000.0,sedan,382,2.0,Petrol,yes,1994,E-Class
+Renault,7499.0,van,123,1.5,Diesel,yes,2009,Kangoo
+BMW,21900.0,other,25,2.5,Petrol,yes,2007,325
+Volkswagen,3000.0,sedan,240,1.8,Petrol,yes,1991,Jetta
+BMW,10800.0,sedan,246,3.0,Diesel,yes,2003,530
+Volkswagen,8200.0,sedan,258,1.9,Diesel,yes,2004,Passat B5
+Mercedes-Benz,15200.0,sedan,170,2.8,Gas,yes,2007,E-Class
+Volkswagen,9750.0,van,159,1.9,Diesel,yes,2009,Caddy
+Volkswagen,11500.0,other,189,2.0,Diesel,yes,2011,Caddy
+Mitsubishi,8500.0,hatch,65,1.3,Petrol,yes,2010,Colt
+Mercedes-Benz,9000.0,crossover,220,3.2,Gas,yes,1999,ML 320
+Mercedes-Benz,34900.0,crossover,64,2.2,Diesel,yes,2013,GLK 220
+Audi,34419.45,sedan,0,1.4,Petrol,yes,2016,Q3
+Mitsubishi,13499.0,crossover,116,2.4,Petrol,yes,2008,Outlander XL
+Mercedes-Benz,6500.0,other,215,2.2,Diesel,yes,2000,Vito
+Toyota,8900.0,hatch,140,1.6,Petrol,yes,2008,Auris
+Volkswagen,10200.0,van,137,1.9,Diesel,yes,2008,Caddy
+Audi,33500.0,crossover,67,2.0,Petrol,yes,2011,Q5
+Mercedes-Benz,4000.0,sedan,405,2.0,Diesel,yes,1992,200
+Audi,34500.0,sedan,71,2.8,Petrol,yes,2012,A6
+Mitsubishi,12900.0,crossover,148,3.0,Gas,yes,2008,Pajero Sport
+BMW,36900.0,sedan,81,3.0,Diesel,yes,2010,730
+Mercedes-Benz,11800.0,van,148,2.2,Diesel,yes,2010,Vito
+Mercedes-Benz,11500.0,van,300,2.3,Diesel,yes,1996,Vito
+Mitsubishi,24500.0,crossover,11,2.5,Diesel,yes,2012,Pajero Sport
+Audi,15000.0,sedan,38,2.2,Diesel,no,2015,A5
+Toyota,6400.0,sedan,250,3.0,Gas,yes,1998,Camry
+Mercedes-Benz,3550.0,sedan,274,3.2,Diesel,no,2002,E-Class
+Mercedes-Benz,4000.0,crossover,287,4.0,Diesel,no,2003,ML 400
+Mercedes-Benz,7900.0,other,206,2.2,Diesel,yes,2004,Vito
+Renault,10200.0,hatch,70,1.5,Diesel,yes,2013,Sandero
+Toyota,13500.0,sedan,144,3.5,Gas,yes,2007,Camry
+Volkswagen,8500.0,sedan,87,1.6,Petrol,yes,2011,Polo
+Audi,16800.0,sedan,47,1.2,Petrol,yes,2013,A3
+Renault,6800.0,van,168,1.5,Diesel,yes,2012,Kangoo
+Mercedes-Benz,17800.0,van,145,2.2,Diesel,yes,2010,Vito
+Toyota,14400.0,sedan,80,2.4,Petrol,yes,2008,Camry
+Toyota,5900.0,crossover,180,3.0,Diesel,no,2003,Land Cruiser Prado
+Volkswagen,2600.0,vagon,288,1.8,Petrol,yes,1990,Passat B3
+Renault,6400.0,sedan,51,1.6,Petrol,yes,2011,Logan
+Volkswagen,15900.0,other,160,1.8,Petrol,yes,2010,Passat B6
+Mitsubishi,5200.0,van,200,1.6,Petrol,yes,2003,Space Star
+Volkswagen,4000.0,hatch,105,2.0,Other,yes,2013,Golf VII
+Mitsubishi,11700.0,sedan,82,1.5,Gas,yes,2010,Lancer X
+Volkswagen,19000.0,vagon,185,2.0,Diesel,yes,2011,Passat B7
+Toyota,30990.0,crossover,68,2.7,Gas,yes,2012,Land Cruiser Prado
+Audi,10900.0,sedan,199,3.0,Petrol,yes,2004,A8
+Renault,10500.0,vagon,233,1.5,Diesel,yes,2009,Laguna
+Mercedes-Benz,11000.0,van,250,2.2,Diesel,yes,2005,Vito
+BMW,2450.0,sedan,328,2.5,Diesel,no,1996,525
+Volkswagen,21900.0,sedan,107,3.0,Diesel,yes,2009,Phaeton
+Volkswagen,1500.0,sedan,255,1.9,Diesel,no,1998,Polo
+Volkswagen,11000.0,vagon,210,1.9,Diesel,yes,2008,Touran
+Audi,1300.0,sedan,250,2.2,Gas,no,1994,80
+BMW,1650.0,sedan,270,1.8,Petrol,no,1995,318
+Volkswagen,12800.0,vagon,167,1.6,Diesel,yes,2011,Golf Variant
+Mitsubishi,9450.0,sedan,125,2.0,Gas,yes,2008,Lancer X
+Mitsubishi,10500.0,sedan,57,1.5,Gas,yes,2011,Lancer X
+Volkswagen,11700.0,van,185,1.4,Petrol,yes,2008,Cross Touran
+Volkswagen,13500.0,hatch,48,1.4,Petrol,yes,2012,Polo
+Mercedes-Benz,11500.0,crossover,1,3.0,Petrol,yes,2016,GLE-Class
+Volkswagen,6700.0,van,300,2.5,Diesel,yes,1997,T4 (Transporter)
+Toyota,9000.0,crossover,180,1.8,Gas,yes,2003,Matrix
+Mitsubishi,8400.0,sedan,147,2.0,Petrol,yes,2007,Lancer
+Mercedes-Benz,6200.0,van,196,2.2,Diesel,yes,2002,Vito
+BMW,4600.0,sedan,340,2.0,Gas,yes,1995,520
+Volkswagen,10600.0,van,140,2.0,Diesel,yes,2011,T6 (Transporter) 
+Volkswagen,8900.0,van,167,2.0,Gas,yes,2011,Caddy
+Toyota,24842.03,sedan,0,1.8,Petrol,yes,2016,Avensis
+Renault,10299.0,other,176,2.0,Diesel,yes,2013,Trafic
+Volkswagen,4500.0,vagon,220,2.0,Diesel,no,2005,Touran
+Volkswagen,9990.0,van,194,1.6,Diesel,yes,2011,Caddy
+Mercedes-Benz,20500.0,sedan,235,2.2,Diesel,yes,2007,E-Class
+Audi,4000.0,sedan,260,2.2,Diesel,no,2000,A6
+Volkswagen,6550.0,sedan,150,1.6,Petrol,yes,2001,Bora
+Audi,3700.0,vagon,290,1.9,Diesel,no,2002,A4
+BMW,24500.0,sedan,114,2.2,Petrol,yes,2005,M5
+Volkswagen,20800.0,crossover,151,3.0,Diesel,yes,2008,Touareg
+Volkswagen,23500.0,crossover,48,2.0,Diesel,yes,2012,Tiguan
+Volkswagen,11500.0,sedan,118,1.6,Gas,yes,2008,Jetta
+BMW,13000.0,sedan,193,3.6,Petrol,yes,2003,735
+BMW,32500.0,crossover,152,3.0,Diesel,yes,2008,X5
+Mercedes-Benz,15400.0,sedan,260,2.2,Diesel,yes,2008,E-Class
+Toyota,14250.0,van,127,3.5,Other,yes,2007,Sienna
+Mitsubishi,4900.0,vagon,250,2.5,Petrol,yes,2001,Galant
+BMW,28000.0,sedan,170,2.0,Diesel,yes,2011,520
+Volkswagen,2350.0,sedan,11,1.9,Other,no,2000,Passat B5
+BMW,7998.0,sedan,253,2.2,Petrol,yes,1998,323
+Mercedes-Benz,18500.0,van,170,2.2,Diesel,yes,2010,Vito
+Renault,11500.0,van,150,2.5,Diesel,yes,2007,Trafic
+BMW,6900.0,sedan,280,2.0,Gas,yes,2000,320
+Volkswagen,7700.0,other,290,2.2,Diesel,yes,2000,T4 (Transporter)
+Toyota,20999.0,sedan,77,2.5,Gas,yes,2012,Camry
+Mercedes-Benz,3550.0,sedan,238,2.2,Diesel,no,2001,E-Class
+Renault,3800.0,van,196,1.9,Diesel,yes,1998,Kangoo
+Toyota,20500.0,crossover,139,4.0,Gas,yes,2005,Land Cruiser Prado
+Mercedes-Benz,13600.0,van,190,2.2,Diesel,yes,2009,Vito
+Toyota,7500.0,vagon,196,1.59,Petrol,yes,2003,Corolla Verso
+Renault,1950.0,vagon,286,1.9,Diesel,no,2001,Laguna
+Mercedes-Benz,10200.0,sedan,154,2.5,Petrol,yes,2006,C-Class
+Renault,3700.0,hatch,310,2.0,Petrol,yes,1996,Laguna
+Toyota,18200.0,crossover,146,2.7,Gas,yes,2006,Land Cruiser Prado
+Mitsubishi,5400.0,van,300,1.6,Petrol,yes,2002,Space Star
+Audi,16700.0,vagon,131,2.0,Diesel,yes,2009,A4
+Volkswagen,12900.0,vagon,145,1.6,Diesel,yes,2011,Golf Variant
+Mercedes-Benz,15250.0,sedan,210,2.2,Diesel,yes,2006,E-Class
+Volkswagen,23300.0,sedan,115,1.8,Petrol,yes,2012,Passat CC
+Mercedes-Benz,3900.0,sedan,111,2.5,Diesel,yes,1989,E-Class
+BMW,31000.0,vagon,15,2.2,Other,yes,2015,I3
+Volkswagen,5300.0,sedan,270,1.8,Gas,yes,1997,Passat B5
+Mitsubishi,7400.0,sedan,148,1.6,Petrol,yes,2008,Lancer
+Volkswagen,7400.0,sedan,178,1.8,Gas,yes,2001,Passat B5
+Mitsubishi,8350.0,sedan,98,1.5,Petrol,yes,2010,Lancer X
+Volkswagen,8900.0,sedan,144,1.6,Petrol,yes,2013,Polo
+Audi,33900.0,sedan,58,2.0,Petrol,yes,2014,A5
+Renault,4999.0,sedan,140,1.4,Petrol,yes,2011,Logan
+Volkswagen,2700.0,hatch,300,1.9,Diesel,no,2000,Golf IV
+BMW,5000.0,sedan,400,2.5,Petrol,yes,1991,525
+Volkswagen,3200.0,sedan,320,1.8,Gas,yes,1990,Passat B3
+Volkswagen,4100.0,hatch,160,1.8,Petrol,yes,2006,Pointer
+Volkswagen,11500.0,van,1,2.2,Diesel,yes,2005,Caddy
+BMW,6500.0,sedan,280,2.0,Petrol,yes,1997,320
+BMW,19900.0,other,129,2.0,Petrol,yes,2008,320
+Mitsubishi,6900.0,sedan,118,1.6,Petrol,yes,2007,Lancer
+Mitsubishi,6700.0,sedan,155,1.6,Gas,yes,2007,Lancer
+Volkswagen,7700.0,van,228,1.9,Diesel,yes,2006,Caddy
+Mitsubishi,7000.0,sedan,99,1.6,Petrol,yes,2005,Lancer
+Volkswagen,5600.0,vagon,235,1.4,Petrol,yes,2000,Golf IV
+Volkswagen,13200.0,van,150,1.4,Gas,yes,2012,Touran
+BMW,5900.0,hatch,243,2.0,Petrol,no,2006,116
+Toyota,30600.0,crossover,39,2.2,Diesel,yes,2014,Rav 4
+Volkswagen,35000.0,sedan,74,4.2,Gas,yes,2011,Phaeton
+Volkswagen,5000.0,van,326,2.4,Diesel,yes,1995,T4 (Transporter)
+Mitsubishi,5900.0,hatch,92,1.6,Petrol,yes,2003,Carisma
+Mercedes-Benz,8700.0,sedan,240,2.2,Diesel,yes,2000,E-Class
+Mercedes-Benz,7200.0,sedan,312,3.2,Petrol,yes,2000,E-Class
+Volkswagen,28713.75,hatch,0,2.0,Diesel,yes,2015,Golf VII
+Mitsubishi,10200.0,crossover,269,3.2,Diesel,yes,2002,Pajero Wagon
+Mercedes-Benz,20500.0,sedan,173,1.8,Gas,yes,2011,E-Class
+Volkswagen,7300.0,sedan,125,1.6,Petrol,yes,2005,Golf Plus
+Volkswagen,17400.0,sedan,73,1.8,Petrol,yes,2012,Passat B7
+Audi,13500.0,sedan,196,2.4,Petrol,yes,2005,A6
+Volkswagen,16950.0,sedan,38,2.0,Diesel,yes,2014,Jetta
+Toyota,14900.0,crossover,124,4.0,Petrol,yes,2006,Fortuner
+BMW,4950.0,sedan,1,3.0,Petrol,yes,1996,730
+BMW,6500.0,sedan,1,3.5,Petrol,yes,1999,535
+Renault,8300.0,van,217,1.9,Diesel,yes,2004,Trafic
+Volkswagen,18500.0,vagon,125,2.0,Diesel,yes,2011,Passat B7
+Renault,10990.0,sedan,118,2.0,Petrol,yes,2012,Fluence
+BMW,8200.0,sedan,287,2.5,Gas,yes,1999,525
+BMW,28000.0,sedan,127,2.5,Petrol,yes,2010,523
+Mitsubishi,7300.0,sedan,112,1.6,Petrol,yes,2008,Lancer
+Volkswagen,7999.0,van,210,1.6,Gas,yes,2004,Touran
+Volkswagen,17900.0,crossover,167,3.0,Diesel,yes,2007,Touareg
+Mercedes-Benz,29999.0,hatch,9,2.2,Other,yes,2015,B-Class Electric Drive
+Volkswagen,9000.0,sedan,59,1.6,Gas,yes,2013,Polo
+Toyota,8900.0,sedan,154,1.6,Gas,yes,2008,Corolla
+Volkswagen,20900.0,sedan,25,2.0,Diesel,yes,2015,Jetta
+Audi,16500.0,sedan,136,3.2,Petrol,yes,2007,A6
+Toyota,8000.0,sedan,176,3.0,Petrol,yes,2002,Camry
+Volkswagen,20350.0,vagon,111,2.0,Diesel,yes,2012,Passat B7
+Mercedes-Benz,22600.0,crossover,165,3.0,Diesel,yes,2007,ML 320
+BMW,8200.0,sedan,368,3.0,Diesel,yes,2000,730
+Volkswagen,6450.0,van,220,2.2,Other,yes,2004,Caddy
+Mercedes-Benz,12900.0,hatch,130,2.0,Petrol,yes,2007,B 200
+Volkswagen,18700.0,other,145,2.0,Diesel,yes,2011,T5 (Transporter) 
+Mitsubishi,7300.0,sedan,137,1.6,Gas,yes,2006,Lancer
+Mercedes-Benz,4700.0,sedan,1,1.8,Petrol,yes,1996,C-Class
+BMW,11500.0,sedan,145,2.0,Diesel,yes,2007,320
+Mercedes-Benz,13100.0,sedan,160,3.7,Petrol,yes,2003,S 350
+Mercedes-Benz,9999.0,van,154,2.2,Diesel,yes,2007,Vito
+Toyota,24999.0,crossover,153,4.0,Petrol,yes,2007,Land Cruiser Prado
+BMW,37500.0,other,55,2.0,Petrol,yes,2014,428
+Toyota,5750.0,hatch,160,1.0,Petrol,yes,2006,Yaris
+Volkswagen,2850.0,sedan,350,2.0,Petrol,yes,1990,Passat B3
+BMW,12090.0,hatch,145,1.6,Petrol,yes,2010,116
+Audi,32300.0,hatch,54,2.8,Petrol,yes,2011,A6
+BMW,36900.0,crossover,82,3.0,Petrol,yes,2010,X6
+Renault,6300.0,sedan,167,1.6,Petrol,yes,2005,Megane
+Renault,18932.55,hatch,0,1.5,Diesel,yes,2016,Megane
+Audi,4800.0,other,207,2.0,Petrol,yes,2002,A4
+Mercedes-Benz,11500.0,vagon,200,2.2,Diesel,yes,2006,Vito
+Toyota,9150.0,hatch,87,1.6,Petrol,yes,2008,Auris
+Mercedes-Benz,33000.0,vagon,91,2.2,Other,yes,2013,E-Class
+Mercedes-Benz,11500.0,sedan,224,2.6,Gas,yes,2003,E-Class
+Audi,2500.0,vagon,280,2.5,Other,no,1999,A6
+Mitsubishi,9700.0,van,247,2.4,Gas,yes,2008,Grandis
+BMW,7800.0,sedan,310,2.0,Gas,yes,2000,520
+Mercedes-Benz,2400.0,sedan,1,2.0,Petrol,no,2001,C-Class
+Renault,14700.0,crossover,61,1.5,Diesel,yes,2013,Duster
+Mercedes-Benz,26600.0,van,122,3.0,Diesel,yes,2012,Vito
+Mercedes-Benz,7700.0,van,300,2.2,Other,yes,2004,Vito
+Toyota,11990.0,sedan,129,2.4,Petrol,yes,2007,Camry
+Mitsubishi,10800.0,crossover,165,3.0,Gas,yes,2007,Pajero Sport
+BMW,10900.0,sedan,245,3.0,Diesel,yes,2003,530
+BMW,37000.0,sedan,130,3.0,Petrol,yes,2011,535
+Mercedes-Benz,6950.0,other,190,2.2,Diesel,yes,1999,Vito
+BMW,2700.0,other,287,2.5,Diesel,no,1998,525
+Toyota,13100.0,sedan,200,3.5,Gas,yes,2006,Camry
+Mitsubishi,8400.0,sedan,91,1.5,Petrol,yes,2009,Lancer X
+Mercedes-Benz,11500.0,sedan,42,3.0,Diesel,yes,2014,S 350
+Volkswagen,9200.0,hatch,127,1.6,Petrol,yes,2007,Golf V
+Mitsubishi,10200.0,sedan,104,2.2,Gas,yes,2008,Lancer X
+Volkswagen,5500.0,van,400,1.9,Diesel,yes,1995,T4 (Transporter)
+BMW,14990.0,sedan,135,2.5,Petrol,yes,2005,525
+Mercedes-Benz,35000.0,crossover,154,3.2,Diesel,yes,2008,GL 320
+Volkswagen,16800.0,vagon,149,1.4,Gas,yes,2013,Passat B7
+Mercedes-Benz,1350.0,vagon,240,2.5,Diesel,no,1992,E-Class
+Toyota,18999.0,crossover,153,2.7,Gas,yes,2006,Land Cruiser Prado
+BMW,36500.0,sedan,33,2.0,Diesel,yes,2014,328
+Volkswagen,14500.0,van,168,2.0,Diesel,yes,2012,T5 (Transporter) 
+Renault,4900.0,van,150,2.0,Diesel,yes,2007,Trafic
+Renault,11700.0,vagon,155,1.5,Diesel,yes,2012,Megane
+Volkswagen,18100.0,other,64,2.0,Petrol,yes,2011,Scirocco
+Renault,4650.0,van,165,1.5,Diesel,yes,2003,Kangoo
+Volkswagen,11500.0,van,124,1.6,Diesel,yes,2013,Caddy
+Volkswagen,28660.0,van,0,1.6,Diesel,yes,2016,Caddy
+Toyota,17300.0,other,135,3.5,Gas,yes,2009,Camry
+Volkswagen,18900.0,sedan,75,1.8,Petrol,yes,2011,Passat B7
+Volkswagen,14999.0,crossover,200,4.2,Petrol,yes,2007,Touareg
+Renault,3750.0,hatch,232,1.8,Petrol,yes,1997,Laguna
+Renault,13999.0,van,180,2.0,Diesel,yes,2012,Trafic
+Volkswagen,9750.0,hatch,130,1.4,Petrol,yes,2005,Golf V
+Audi,11800.0,sedan,240,4.2,Gas,yes,2001,S8
+Volkswagen,16900.0,crossover,145,1.4,Petrol,yes,2011,Tiguan
+Mitsubishi,12400.0,sedan,52,1.6,Petrol,yes,2013,Lancer X
+Renault,5000.0,vagon,150,2.2,Other,yes,2006,Kangoo
+Mercedes-Benz,7800.0,hatch,125,2.3,Petrol,yes,2001,C-Class
+Mitsubishi,11500.0,sedan,134,2.4,Petrol,yes,2009,Galant
+Audi,23000.0,crossover,167,3.6,Petrol,yes,2008,Q7
+Mitsubishi,5900.0,sedan,170,1.6,Petrol,yes,2007,Lancer
+Toyota,8300.0,sedan,140,3.0,Petrol,yes,2002,Camry
+Renault,14600.0,other,169,2.3,Diesel,yes,2013,Master
+Mercedes-Benz,7000.0,sedan,230,2.0,Gas,yes,2000,E-Class
+Mitsubishi,2600.0,other,200,2.4,Petrol,no,2002,Lancer
+Toyota,2200.0,hatch,50,2.0,Petrol,yes,1991,Carina
+BMW,33500.0,sedan,1,1.5,Petrol,yes,2015,318
+Volkswagen,11600.0,sedan,169,1.4,Gas,no,2013,Passat B7
+BMW,15500.0,sedan,89,2.0,Diesel,no,2012,520
+Volkswagen,8900.0,van,264,2.5,Diesel,yes,2003,T4 (Transporter)
+Toyota,17800.0,crossover,220,3.0,Diesel,yes,2004,Land Cruiser Prado
+Volkswagen,10999.0,van,95,1.6,Diesel,yes,2012,Caddy
+Volkswagen,19500.0,sedan,82,1.8,Petrol,yes,2011,Passat B7
+Renault,6000.0,van,1,1.9,Diesel,yes,2005,Trafic
+Volkswagen,7800.0,van,380,2.5,Diesel,yes,1999,T4 (Transporter)
+Renault,6700.0,van,160,1.5,Diesel,yes,2012,Kangoo
+Volkswagen,24000.0,sedan,3,1.6,Diesel,yes,2016,Jetta
+Mercedes-Benz,39500.0,sedan,30,1.6,Petrol,yes,2014,C-Class
+BMW,3500.0,sedan,334,2.0,Diesel,no,1999,320
+Volkswagen,24000.0,sedan,105,2.0,Diesel,yes,2012,Passat CC
+Toyota,13200.0,sedan,38,1.33,Petrol,yes,2014,Corolla
+Toyota,8400.0,sedan,195,2.4,Gas,yes,2004,Camry
+BMW,8500.0,other,265,2.8,Gas,yes,1998,328
+BMW,11500.0,crossover,36,3.0,Diesel,yes,2013,X5
+Renault,4300.0,van,1,1.5,Diesel,yes,2003,Kangoo
+Mercedes-Benz,7450.0,sedan,300,2.0,Gas,yes,2000,C-Class
+Volkswagen,13708.5,hatch,51,1.4,Petrol,yes,2014,Polo
+BMW,38500.0,sedan,140,2.0,Diesel,yes,2012,520
+Renault,8300.0,van,137,1.5,Diesel,yes,2014,Kangoo
+Renault,8700.0,vagon,123,1.5,Diesel,yes,2009,Megane
+Renault,8600.0,hatch,84,1.5,Diesel,yes,2012,Clio
+Mercedes-Benz,13900.0,other,272,2.2,Diesel,yes,2005,Sprinter 313
+Toyota,17835.0,crossover,240,2.7,Gas,yes,2007,Land Cruiser Prado
